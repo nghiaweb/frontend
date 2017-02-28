@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+/* css content investment-trading-services */
+.archives span {
+color:#bababa;
+margin-left:171px;
+position:absolute;
+}
+.blog-bar-right span {
+	color:#bababa;
+	margin-left:154px;
+	position:absolute;
+}
+/* css for gemstones */
+.title-gemstones span {
+	position:absolute;
+	margin:0px 0px 0px 18px;
+	top:676px;
+}
+
+/* css for blog details */
+.arrow-blog-details {
+	float:right;
+	position:absolute;
+	margin-left:534px;
+}
+/* css for blog */
+.icon-blog-back {
+	position:absolute;
+	background:none;
+	margin-top: 10px;
+	padding-left:152px;
+	}

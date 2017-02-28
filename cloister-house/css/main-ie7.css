@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+.header-right input {
+ background:#7e7e7e;
+ border:1px #fff solid;
+ color:#fff;
+ width:118px;
+ height:20px;
+ padding:0px 5px 0px 5px;
+ margin:15px 23px 0px 0px;
+}
+
+.btn-button {
+    float: right;
+    margin: -23px 0px 0px 0px;
+    padding: 1px 4px 0px 4px;
+}
+.box-why-gems {
+	width:648px;
+	background:#000;
+	position:absolute;
+	top:515px;
+}
+.content-why-gems {
+	margin:230px 0px 0px 0px;
+}
+/* Slider menu */
+html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+/* gradient bar */
+.blog-bar {
+	-pie-background: linear-gradient(#6D6D70, #000000);
+	behavior: url(PIE.htc);
+}
+.blog-bar-right {
+	-pie-background: linear-gradient(#72b897, #6cb393);
+	behavior: url(PIE.htc);
+}
+/* css content investment-trading-services */
+.archives span {
+color:#bababa;
+margin-left:172px;
+position:absolute;
+}
+.blog-bar-right span {
+	color:#bababa;
+	margin-left:154px;
+	position:absolute;
+}
+/* css for blog details */
+.arrow-blog-details {
+	float:right;
+	position:absolute;
+	margin-left:534px;
+}
+/* css for search result */
+.arrow-gotopage {
+	position:absolute;
+	padding:0px 0px 0px 10px;
+	}
